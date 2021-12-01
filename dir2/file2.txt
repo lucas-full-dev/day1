@@ -1,0 +1,1 @@
+Criei o file2 no forma .txt por causa que no exercício não foi especificado qual o formato para ser criado o file2.
